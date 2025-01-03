@@ -1,5 +1,5 @@
 {
-  "homepage": "https://dkchandel.github.io/Travel-web.io/",
+  "homepage": "https://dkchandel.github.io/Travel-web.io",
   "name": "new-react-app",
   "private": true,
   "version": "0.0.0",
@@ -7,7 +7,7 @@
   "scripts": {
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
-    "start":"vite",
+    "start": "vite",
     "dev": "vite",
     "build": "vite build",
     "lint": "eslint .",
@@ -28,7 +28,7 @@
     "eslint-plugin-react": "^7.37.2",
     "eslint-plugin-react-hooks": "^5.0.0",
     "eslint-plugin-react-refresh": "^0.4.14",
-    "gh-pages": "^6.2.0",
+    "gh-pages": "^6.3.0",
     "globals": "^15.12.0",
     "vite": "^6.0.1"
   }
